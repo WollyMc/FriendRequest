@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">follyChat</string>
+    <string name="need_a_new_account">Need a New Account?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="logout">Logout</string>
+    <string name="new_account">New Account?</string>
+    <string name="login">Login</string>
+    <string name="new_register">New Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="request_page">Request Page</string>
+    <string name="chats_page">Chats Page</string>
+    <string name="friends_page">Friends Page</string>
+    <string name="status">Status</string>
+    <string name="change_image">Change Image</string>
+    <string name="view_name">View Name</string>
+    <string name="change_thoughts">Change Thoughts</string>
+</resources>
